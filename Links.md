@@ -66,6 +66,7 @@ Here's a curated list of resources that developers may find helpful:
 - [VS Code Keyboard Shortcuts](https://code.visualstudio.com/shortcuts): A list of keyboard shortcuts for Visual Studio Code.
 - [Regex101](https://regex101.com/): An online tool for testing and debugging regular expressions.
 - [Can I Use](https://caniuse.com/): A website that provides browser support tables for various web technologies.
+- [Flaticon](https://www.flaticon.com/): A website that provides various icons and images.
 
 ---
 
